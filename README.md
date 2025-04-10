@@ -1,0 +1,1 @@
+Welcome to my SVM Projects repository! This repo showcases hands-on projects, notes, and experiments using Support Vector Machines — one of the most powerful supervised learning algorithms for classification and regression tasks.
